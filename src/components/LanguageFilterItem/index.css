@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.language-item {
+  list-style-type: none;
+}
+
+.button {
+  background-color: transparent;
+  border: 0px;
+  font-size: 20px;
+  font-weight: 1000;
+  cursor: pointer;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 15px;
+}
+
+.active {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+}

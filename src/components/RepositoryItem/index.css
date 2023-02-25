@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.repo-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  padding: 20px;
+  background-color: #f8f8ff;
+  margin: 10px;
+}
+
+.icon {
+  width: 15px;
+  margin-right: 10px;
+}
+
+.image {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.repo-container {
+  display: flex;
+  align-items: center;
+}
+
+.repo-name {
+  color: #e73959;
+  font-size: 19px;
+}

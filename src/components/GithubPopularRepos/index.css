@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.tabs-list {
+  display: flex;
+  width: 25%;
+  justify-content: space-between;
+}
+
+.repos-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+}
+
+.loader {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
